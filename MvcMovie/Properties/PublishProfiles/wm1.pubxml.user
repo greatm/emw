@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMbir7UqErEmEvmjkGJQVmgAAAAACAAAAAAAQZgAAAAEAACAAAAAHCUjtU8OUhTb38bCD+Sv7nhUQxt8+qrlco1BnEsq/qgAAAAAOgAAAAAIAACAAAADroyVMaFzdPTSGwVr9JJ4MfdNEYGusMP1AV3luFfd4ICAAAADCuolm4VBcO5jTdF4wfF0rKdvhLsyPvNY4gQ1Na41s+UAAAADOP89BAbYtNHAGw0wzLM3kwssSVlKq3WqRe4cFjszWWZplVkyg033bxSwQ8VuG462zPR6+LAIIG/7scE0uMYI0</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/17/2013 12:58:13</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>03/17/2013 12:58:04</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>03/17/2013 12:58:04</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>03/17/2013 12:58:05</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>03/17/2013 12:58:05</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>03/17/2013 12:58:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/17/2013 12:57:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>03/17/2013 12:58:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.WebPages.OAuth.dll">
+      <publishTime>03/17/2013 12:58:03</publishTime>
+    </File>
+    <File Include="bin/MvcMovie.dll">
+      <publishTime>03/19/2013 20:23:53</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2013 12:57:58</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/17/2013 12:58:01</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>03/17/2013 12:58:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/17/2013 12:57:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/17/2013 12:58:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.OData.dll">
+      <publishTime>03/17/2013 12:58:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/17/2013 12:58:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/17/2013 12:58:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/17/2013 12:57:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/17/2013 12:57:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/17/2013 12:57:59</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/17/2013 12:57:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/17/2013 12:57:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/17/2013 12:58:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/19/2013 20:24:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

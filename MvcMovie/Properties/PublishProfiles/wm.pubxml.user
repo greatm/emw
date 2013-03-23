@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMbir7UqErEmEvmjkGJQVmgAAAAACAAAAAAAQZgAAAAEAACAAAAAmj8zzGMi0I2CBoOMGZQJq+XznRooeS0+59sGv4JmsCwAAAAAOgAAAAAIAACAAAAC9WVt2cYA7N7k1qK7NQc6iUB4I2bSqIntZei8d9ASYYSAAAAAv1b433/rx/uIp1HeYqr+0W8G0Jo5JrwVmmGaMZXDi6EAAAADWjhvlHmp+scz/v/mbdYwMTTLwNTPiycD+yTzLrlBSMKNqM15w6pdk6BSfyvi9d4/cTS+iASznOZ+fcLw5jp4w</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/17/2013 12:58:13</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>03/17/2013 12:58:04</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>03/17/2013 12:58:05</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>03/17/2013 12:58:05</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>03/17/2013 12:58:06</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/17/2013 12:57:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/17/2013 12:57:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/17/2013 12:58:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/19/2013 18:54:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
